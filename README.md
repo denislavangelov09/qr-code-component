@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-NNB7ux7QMG)
-- Live Site URL: [Live Site URL](https://qr-code-component-tedkata.vercel.app/)
+- Live Site URL: [Live Site URL](https://qr-code-component-denislav.vercel.app)
 
 ## My process
 
@@ -41,5 +41,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@tedkataa](https://www.frontendmentor.io/profile/tedkataa)
-- Twitter - [@tedkataa_](https://x.com/tedkataa_)
+- Frontend Mentor - [@denislavangelov09](https://www.frontendmentor.io/profile/denislavangelov09)
